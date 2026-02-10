@@ -18,4 +18,4 @@ The project models real-world garage behavior including vehicle entry, ticketing
 - Robust input validation to prevent invalid menu selections or crashes
 - Simulated time advancement for testing billing logic
 
-## Project Structure
+
