@@ -83,3 +83,7 @@ reaction_time/
 
 - Built with [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library
 - Inspired by classic reaction time tests
+
+## Author
+[dsalas560](https://github.com/dsalas560)
+
